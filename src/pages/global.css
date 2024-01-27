@@ -38,5 +38,5 @@ input:focus {
 }
 
 .table-basic a {
-  @apply bg-blue-900 text-white text-sm py-1 px-3 inline-flex gap-1 rounded-md;
+  @apply bg-blue-900 text-white text-sm py-1 px-3 inline-flex gap-1 mr-2 rounded-md;
 }
